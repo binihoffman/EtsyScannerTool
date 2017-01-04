@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="scalaprojects:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/scalaprojects_jar</output-path>
+    <root id="archive" name="scalaprojects.jar">
+      <element id="module-output" name="EtsyScanner" />
+      <element id="library" level="project" name="htmlcleaner-2.6-sources" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/htmlcleaner-2.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

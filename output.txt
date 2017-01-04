@@ -1,0 +1,146 @@
+Starting Scanning
+Scanning search word - gold necklace, in shop - SHOPEVREN, for number of pages - 50
+Searching page number - 1
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=1
+The store - SHOPEVREN, with key - gold necklace was found in page - 1
+Item found: 
+Link - https://www.etsy.com/il-en/listing/387200496/white-czech-bead-choker-delicate-rose?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=gold necklace&ref=sr_gallery_11
+Title - White Czech Bead Choker - Delicate Rose Gold Choker Necklace - Beaded Necklace - Rose Gold Necklace - Boho Jewelry - Gypsy Jewelry
+Searching page number - 2
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=2
+The store - SHOPEVREN, with key - gold necklace was found in page - 2
+Item found: 
+Link - https://www.etsy.com/il-en/listing/385989824/delicate-gold-necklace-satellite-bead?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=gold necklace&ref=sr_gallery_11
+Title - Delicate Gold Necklace - Satellite Bead Necklace - Dainty Gold Choker - Dew Drop Necklace - Boho Jewelry - Layering Necklace
+Searching page number - 3
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=3
+The store - SHOPEVREN, with key - gold necklace was found in page - 3
+Item found: 
+Link - https://www.etsy.com/il-en/listing/385669614/delicate-gold-choker-rose-gold-necklace?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=gold necklace&ref=sr_gallery_8
+Title - Delicate Gold Choker - Rose Gold Necklace - 18K Gold Plated - Gold Chain Choker - Bohemian Necklace - Layering Necklace - Gift for Women
+Searching page number - 4
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=4
+The store - SHOPEVREN, with key - gold necklace was found in page - 4
+Item found: 
+Link - https://www.etsy.com/il-en/listing/400702981/gold-coin-charm-y-necklace-charm?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=gold necklace&ref=sr_gallery_11
+Title - Gold Coin Charm Y Necklace - Charm Necklace - Delicate Jewelry - Gold Necklace - Gold Coin Necklace - Layering Necklace - Bohemian Jewelry
+Searching page number - 5
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=5
+The store - SHOPEVREN, with key - gold necklace was found in page - 5
+Item found: 
+Link - https://www.etsy.com/il-en/listing/469414050/friendship-necklace-delicate-gold?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=gold necklace&ref=sr_gallery_7
+Title - Friendship Necklace - Delicate Gold Necklace - Interlocking Circle Necklace - Gold Circle Necklace - Layering Necklace - Love Necklace
+Searching page number - 6
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=6
+The store - SHOPEVREN, with key - gold necklace was found in page - 6
+Item found: 
+Link - https://www.etsy.com/il-en/listing/385560100/rose-gold-choker-necklace-christmas-gift?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=gold necklace&ref=sr_gallery_20
+Title - Rose Gold Choker Necklace - Christmas Gift for Her - Layering Necklace - Rose Gold Necklace - Bohemian Jewelry - Minimalist Necklace
+Searching page number - 7
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=7
+The store - SHOPEVREN, with key - gold necklace was found in page - 7
+Item found: 
+Link - https://www.etsy.com/il-en/listing/452438252/delicate-gold-leaf-necklace-dainty-gold?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=gold necklace&ref=sr_gallery_5
+Title - Delicate Gold Leaf Necklace - Dainty Gold Necklace - Gold Choker Necklace - Boho Jewelry - Layering Necklace - Gypsy Jewelry
+Item found: 
+Link - https://www.etsy.com/il-en/listing/400695697/delicate-gold-choker-layering-necklace?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=gold necklace&ref=sr_gallery_48
+Title - Delicate Gold Choker - Layering Necklace - Dainty Gold Necklace - Diamond Choker - Boho Jewelry - Gypsy Jewelry - Bohemian Choker
+Searching page number - 8
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=8
+Searching page number - 9
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=9
+The store - SHOPEVREN, with key - gold necklace was found in page - 9
+Item found: 
+Link - https://www.etsy.com/il-en/listing/449517928/rose-gold-y-necklace-rose-gold-t-shirt?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=gold necklace&ref=sr_gallery_17
+Title - Rose Gold Y Necklace - Rose Gold T-shirt Chain - Delicate Rose Gold Necklace - Layering Necklace - Boho Jewelry
+Item found: 
+Link - https://www.etsy.com/il-en/listing/387201058/black-czech-bead-choker-necklace?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=gold necklace&ref=sr_gallery_45
+Title - Black Czech Bead Choker Necklace - Delicate Rose Gold Choker - Beaded Necklace - Rose Gold Necklace - Choker Necklace - Boho Jewelry
+Searching page number - 10
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=10
+Searching page number - 11
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=11
+Searching page number - 12
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=12
+Searching page number - 13
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=13
+Searching page number - 14
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=14
+Searching page number - 15
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=15
+Searching page number - 16
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=16
+Searching page number - 17
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=17
+Searching page number - 18
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=18
+Searching page number - 19
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=19
+Searching page number - 20
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=20
+Searching page number - 21
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=21
+Searching page number - 22
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=22
+Searching page number - 23
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=23
+Searching page number - 24
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=24
+Searching page number - 25
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=25
+Searching page number - 26
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=26
+Searching page number - 27
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=27
+Searching page number - 28
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=28
+Searching page number - 29
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=29
+Searching page number - 30
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=30
+Searching page number - 31
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=31
+Searching page number - 32
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=32
+Searching page number - 33
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=33
+Searching page number - 34
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=34
+Searching page number - 35
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=35
+Searching page number - 36
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=36
+The store - SHOPEVREN, with key - gold necklace was found in page - 36
+Item found: 
+Link - https://www.etsy.com/il-en/listing/486584909/long-v-pendant-necklace-chevron-necklace?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=gold necklace&ref=sr_gallery_22
+Title - Long V Pendant Necklace - Chevron Necklace - Delicate Gold Necklace - Layering Necklace - Bohemian Necklace - Minimalist Jewelry
+Searching page number - 37
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=37
+Searching page number - 38
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=38
+Searching page number - 39
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=39
+Searching page number - 40
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=40
+Searching page number - 41
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=41
+Searching page number - 42
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=42
+Searching page number - 43
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=43
+Searching page number - 44
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=44
+Searching page number - 45
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=45
+Searching page number - 46
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=46
+Searching page number - 47
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=47
+Searching page number - 48
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=48
+Searching page number - 49
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=49
+Searching page number - 50
+Search URL is - https://www.etsy.com/il-en/search?q=gold+necklace&explicit=1&page=50
+The store - SHOPEVREN, with key - gold necklace was not found, fix items
+Scanning took - 54416
